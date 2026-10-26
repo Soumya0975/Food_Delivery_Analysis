@@ -1,0 +1,31 @@
+product_id,product_name,category,description,cost_inr,price_inr
+1,Butter Chicken,Main Course,Creamy tomato-butter gravy with tandoori chicken,140,280
+2,Paneer Butter Masala,Main Course,Cottage cheese in rich tomato gravy,120,240
+3,Dal Makhani,Main Course,Slow-cooked black lentils with cream,80,190
+4,Chicken Biryani,Rice,Hyderabadi dum biryani with raita,130,260
+5,Veg Biryani,Rice,Basmati rice with vegetables and spices,90,200
+6,Jeera Rice,Rice,Cumin-tempered basmati rice,40,110
+7,Masala Dosa,South Indian,"Crisp dosa with potato filling, sambar, chutney",50,130
+8,Idli Sambar (3 pcs),South Indian,Steamed rice cakes with sambar,35,90
+9,Medu Vada (2 pcs),South Indian,Fried lentil doughnuts,30,80
+10,Vada Pav,Street Food,Mumbai-style potato fritter in bun,12,35
+11,Pav Bhaji,Street Food,Spiced vegetable mash with buttered pav,55,140
+12,Pani Puri (6 pcs),Street Food,Crisp puris with spiced water,20,60
+13,Samosa (2 pcs),Snacks,Potato-pea stuffed pastry,18,50
+14,Paneer Tikka,Starters,Tandoor-grilled marinated paneer,90,220
+15,Chicken Tikka,Starters,Tandoor-grilled marinated chicken,100,240
+16,Garlic Naan,Breads,Tandoor naan with garlic butter,15,55
+17,Butter Roti,Breads,Whole wheat roti with butter,8,30
+18,Chole Bhature,North Indian,Chickpea curry with fried bread,60,150
+19,Rajma Chawal,North Indian,Kidney bean curry with rice,55,140
+20,Poha,Breakfast,Flattened rice with peanuts and lemon,25,70
+21,Misal Pav,Street Food,Spicy sprouts curry with pav,40,110
+22,Saoji Chicken,Main Course,Nagpur-style spicy chicken curry,120,260
+23,Gulab Jamun (2 pcs),Dessert,Milk-solid dumplings in sugar syrup,20,70
+24,Rasmalai (2 pcs),Dessert,Cottage-cheese discs in saffron milk,35,110
+25,Jalebi (100g),Dessert,Crisp saffron syrup spirals,25,80
+26,Masala Chai,Beverages,Spiced Indian tea,8,30
+27,Sweet Lassi,Beverages,Chilled sweetened yogurt drink,20,75
+28,Mango Lassi,Beverages,Yogurt drink with Alphonso mango,30,95
+29,Filter Coffee,Beverages,South Indian decoction coffee,12,45
+30,Fresh Lime Soda,Beverages,Sweet or salted lime soda,10,50
