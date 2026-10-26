@@ -1,4 +1,4 @@
-# India Food Delivery Analytics (MySQL)
+# Food Delivery Analytics (MySQL)
 
 End-to-end SQL analytics project on a food-delivery business: relational schema design, a synthetic Indian-market data generator, and window-function / CTE queries answering real business questions (revenue trends, margins, retention, referrals).
 
