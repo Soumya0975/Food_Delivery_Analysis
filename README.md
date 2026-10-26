@@ -59,5 +59,3 @@ CTEs · window functions (`LAG`, `DENSE_RANK`, moving average via `ROWS BETWEEN`
 - `EXPLAIN` before/after index optimisation write-up
 - Stored procedure for monthly KPI snapshot
 
-## License
-MIT - see [LICENSE](LICENSE).
